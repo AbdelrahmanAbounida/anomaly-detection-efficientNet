@@ -59,10 +59,10 @@ python3 main.py --evaluate
 
 ### Confusion Matrix
 
-Insert the confusion matrix image here along with a brief description of what it represents and how to interpret it.
+![Alt Confusion Matrix](assets/confusion_matrix.png)
 
 ### Precision-Recall Curve
 
-Insert the precision-recall curve image here along with an explanation of its significance and interpretation.
+![Alt Precision-Recall Curve](assets/prc.png)
 
 Add more sections for other result analysis such as F1-score, classification report, etc., if applicable.
