@@ -69,5 +69,3 @@ python3 main.py --evaluate
 ### Precision-Recall Curve
 
 ![Alt Precision-Recall Curve](assets/prc.png)
-
-Add more sections for other result analysis such as F1-score, classification report, etc., if applicable.
