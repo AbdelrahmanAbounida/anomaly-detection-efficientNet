@@ -1,8 +1,11 @@
 # Anomaly Detection Model for 3D Printing Process using EfficientNet
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-1.8%2B-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.3.0%2B-orange)
+
+<!---
+(![License](https://img.shields.io/badge/License-MIT-green))
+-->
 
 This project implements an anomaly detection model for monitoring the 3D printing process. The model is based on the EfficientNet architecture and is trained using PyTorch.
 
