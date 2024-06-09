@@ -44,6 +44,10 @@ The project folder structure is organized as follows:
   - **predict_utils.py**: Utility functions for model inference.
 - **main.py**: Main script for training and evaluating the model.
 
+
+## Fine Tuning Architecture: 
+![Alt finetuning](assets/finetuning.png)
+
 ### Installation
 
 ````bash
