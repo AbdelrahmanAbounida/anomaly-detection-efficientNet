@@ -44,13 +44,21 @@ The project folder structure is organized as follows:
   - **predict_utils.py**: Utility functions for model inference.
 - **main.py**: Main script for training and evaluating the model.
 
+### Installation
+
+````bash
+$ python3 -m venv venv
+$ source venv/bin/active
+
+
+
 ### Training
 
 To train the model, run the following command:
 
 ```bash
 python3 main.py --train
-```
+````
 
 ## Evaluation
 
@@ -61,6 +69,10 @@ python3 main.py --evaluate
 ```
 
 ## Results
+
+### Traning Losses
+
+![Alt Train Loss](assets/loss.png)
 
 ### Confusion Matrix
 
