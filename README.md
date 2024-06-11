@@ -11,7 +11,7 @@ This project implements an anomaly detection model for monitoring the 3D printin
 
 ## Overview
 
-Add an overview of the project here. Describe the problem you're addressing with the anomaly detection model in the context of the 3D printing process. Explain the importance of monitoring and detecting anomalies in real-time to ensure quality and efficiency in the printing process.
+Add an overview of the project structure
 
 ![Alt process_overview](assets/process_overview.png)
 
