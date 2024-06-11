@@ -53,7 +53,8 @@ The project folder structure is organized as follows:
 ````bash
 $ python3 -m venv venv
 $ source venv/bin/active
-
+$ pip install -r requirements.txt
+````
 
 
 ### Training
